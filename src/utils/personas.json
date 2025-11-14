@@ -1,0 +1,131 @@
+{
+  "personas": [
+    {
+      "name": "Lagos Night Queen",
+      "keyQuizTriggers": ["Bold", "Night owl", "Spicy", "Oily", "Humid"],
+      "topCapsuleMatches": {
+        "women": "Rave Now Woman + Rexona (50ml)",
+        "men": "Raed Oud + Nivea Black & White (100ml)"
+      },
+      "whyItFits": "Bold florals/oud thrive on oily skin in humidity—layer deo first for 10hr sillage without clash.",
+      "color": "#6B1B6A",
+      "accentGradient": ["#6B1B6A", "#C03A6B"]
+    },
+    {
+      "name": "Abuja Power Player",
+      "keyQuizTriggers": ["Calm", "Moderate", "Fresh", "Normal", "Dry"],
+      "topCapsuleMatches": {
+        "men": "Riggs Icon + Rayhaan (50ml)",
+        "women": "Rave Now + Sure Invisible (100ml)"
+      },
+      "whyItFits": "Woody/fresh for dusty climates—dry skin needs deo boost for balanced projection.",
+      "color": "#2C6F6B",
+      "accentGradient": ["#2C6F6B", "#79B8B2"]
+    },
+    {
+      "name": "Spice Market Siren",
+      "keyQuizTriggers": ["Bold", "High-energy", "Spicy", "Combo", "Humid"],
+      "topCapsuleMatches": {
+        "men": "Ramz Lattafa Gold + Nivea Dry Impact (100ml)",
+        "women": "Rayhaan Floriana + Storm Vogue (50ml)"
+      },
+      "whyItFits": "Spicy accords amplify on combo skin—deo neutralizes sweat for beast-mode longevity.",
+      "color": "#8A3E1A",
+      "accentGradient": ["#8A3E1A", "#D97A3A"]
+    },
+    {
+      "name": "Vanilla Vixen",
+      "keyQuizTriggers": ["Romantic", "Moderate", "Sweet", "Oily", "Mixed"],
+      "topCapsuleMatches": {
+        "women": "Eclaire Paris Avenue + Storm Fusion (50ml)",
+        "men": "Ramz Lattafa Gold + Nivea Dry (100ml)"
+      },
+      "whyItFits": "Gourmand vanillas bind to oily skin—deo on pulse for sweet, non-cloying trail.",
+      "color": "#C47E68",
+      "accentGradient": ["#C47E68", "#F2C9B5"]
+    },
+    {
+      "name": "Urban Oud Boss",
+      "keyQuizTriggers": ["Bold", "All-day", "Comfort", "Normal", "Humid"],
+      "topCapsuleMatches": {
+        "men": "Raed Luxe + Raed Deo (50ml)",
+        "women": "Qimmah Lattafa + Nivea Black & White (100ml)"
+      },
+      "whyItFits": "Oud for urban intensity—normal skin + deo ensures all-day without fading in heat.",
+      "color": "#1B1A17",
+      "accentGradient": ["#1B1A17", "#6D5A4C"]
+    },
+    {
+      "name": "Floral Romantic",
+      "keyQuizTriggers": [
+        "Romantic",
+        "Occasions",
+        "Fresh",
+        "Sensitive",
+        "Breezy"
+      ],
+      "topCapsuleMatches": {
+        "women": "Rayhaan Floriana + Storm Vogue (50ml)",
+        "men": "Armaf Aqua + Club de Nuit (50ml)"
+      },
+      "whyItFits": "Delicate florals safe for sensitive skin—occasion-only deo for soft, romantic bloom.",
+      "color": "#E38AA1",
+      "accentGradient": ["#E38AA1", "#F6C6D2"]
+    },
+    {
+      "name": "Fresh & Fearless",
+      "keyQuizTriggers": ["Playful", "High-energy", "Fresh", "Combo", "Dusty"],
+      "topCapsuleMatches": {
+        "men": "Fiero Bleu Man + Nivea Silver (100ml)",
+        "women": "Rave Now + Sure Invisible (100ml)"
+      },
+      "whyItFits": "Citrus zests cut through dust on combo skin—full-body deo for fearless, active projection.",
+      "color": "#F4B400",
+      "accentGradient": ["#F4B400", "#FFD86B"]
+    },
+    {
+      "name": "Calm Woods Sage",
+      "keyQuizTriggers": ["Calm", "Chill", "Comfort", "Dry", "Breezy"],
+      "topCapsuleMatches": {
+        "men": "Riggs Icon + Rayhaan (50ml)",
+        "women": "Eclaire Paris Avenue + Storm Fusion (50ml)"
+      },
+      "whyItFits": "Woody greens ground dry skin—scarf layering with deo for zen, earthy calm.",
+      "color": "#4B6B3A",
+      "accentGradient": ["#4B6B3A", "#96C07A"]
+    },
+    {
+      "name": "Playful Citrus Pop",
+      "keyQuizTriggers": ["Playful", "Moderate", "Sweet", "Oily", "Mixed"],
+      "topCapsuleMatches": {
+        "women": "Lamsat Harir Red + Nivea Pearl (100ml)",
+        "men": "Armaf Aqua + Club de Nuit (50ml)"
+      },
+      "whyItFits": "Fruity pops amplify on oily skin—hair deo mist for bubbly, playful diffusion.",
+      "color": "#FF6B35",
+      "accentGradient": ["#FF6B35", "#FFD5C2"]
+    },
+    {
+      "name": "Gourmand Goddess",
+      "keyQuizTriggers": ["Romantic", "Night owl", "Sweet", "Combo", "Humid"],
+      "topCapsuleMatches": {
+        "women": "Qimmah Lattafa + Nivea Black & White (100ml)",
+        "men": "Raed Oud + Nivea Black & White (100ml)"
+      },
+      "whyItFits": "Caramel gourmands in humidity—décolletage deo for addictive, seductive hold.",
+      "color": "#8B4B2E",
+      "accentGradient": ["#8B4B2E", "#DFA77A"]
+    },
+    {
+      "name": "Mystery Musk",
+      "keyQuizTriggers": ["Bold", "All-day", "Spicy", "Sensitive", "Mixed"],
+      "topCapsuleMatches": {
+        "women": "Rave Now Woman + Rexona (50ml)",
+        "men": "Fiero Bleu Man + Nivea Silver (100ml)"
+      },
+      "whyItFits": "Musk for mystery on sensitive skin—one-spray deo base keeps it safe & enigmatic.",
+      "color": "#2D2A2F",
+      "accentGradient": ["#2D2A2F", "#7A6F79"]
+    }
+  ]
+}

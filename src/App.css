@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(180deg, var(--bg-start), var(--bg-end));
+}
+
+@theme {
+  --font-man: "Inter", "sans-serif";
+  --accent: #6b1b6a;
+  --bg-start: #ffffff;
+  --bg-end: #f7f7f7;
+}
+
+
+.transition-accent {
+transition: background-color 400ms ease, color 400ms ease;
+}
