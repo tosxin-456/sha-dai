@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { ChevronRight, Share2, Download, Sparkles, Heart } from "lucide-react";
+import logo from "../../assets/logo.png";
 
 const ScentPersonaQuiz = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -309,9 +310,10 @@ const ScentPersonaQuiz = () => {
           <div className="bg-white/95 backdrop-blur-lg rounded-3xl shadow-2xl p-8 md:p-12">
             <div className="text-center mb-8">
               <div className="text-6xl mb-4 animate-bounce">✨</div>
-              <h1 className="text-4xl md:text-5xl font-black text-gray-900 mb-3">
+              {/* <h1 className="text-4xl md:text-5xl font-black text-gray-900 mb-3">
                 Sha-dai's Scents
-              </h1>
+              </h1> */}
+              <img src={logo} />
               <p className="text-lg text-gray-700 mb-2">
                 Discover Your Signature Scent Persona
               </p>
